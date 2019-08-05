@@ -1,7 +1,124 @@
-/* // we start here/// */
 
-
-
-body{
-    background-color: aquamarine;
+.navbar{
+  height: 70px;
 }
+
+
+.name{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 150px;
+margin-bottom: -220px;
+}
+
+.search_term1 {
+  opacity: .4;
+  margin-left: 10px;
+  padding:40px;
+  margin-bottom: -10px;
+  width: 520px;
+  padding: 20px;
+  height: 49px;
+  border: none;
+}
+
+
+
+.search_term2 {
+  opacity: .4;
+  margin-left: 10px;
+  padding:30px;
+  margin-bottom: -10px;
+  width: 520px;
+  padding: 25px;
+  height: 49px;
+  border: none;
+}
+
+.search_term{
+
+border-radius: 15px;
+padding: 0%;
+background-color: whitesmoke;
+font-size: 15px;
+margin-left: 80px;
+margin-top: 250px;
+margin-bottom: -100px;
+width:1300px;
+height: 65px;
+}
+
+
+
+
+
+
+/* GOOGLE MAPS LAYOUT///////////////////////////////////////////////////*/
+#map {
+opacity:.9;
+margin-top:200px;
+margin-bottom:300px;
+margin-left:200px;
+width:1000px;
+height:500px;
+  }
+/* //////////////////////////////////////////////////////////////////// */
+
+
+
+
+
+
+
+/* //////////////////////////////////////////////////////////////////// */
+body {
+height:100%; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+ background-image: url("../images/food1.jpg");
+ overflow-x: hidden;
+}
+
+/* /////////////////////////////////////////////////////////////////// */
+
+/* images at the login */
+.photo{
+  width: 100px;
+  height: 100px;
+
+ margin-left: 150px;
+}
+
+
+
+.btn-primary{
+  margin-left: 50px;
+}
+
+
+
+/* login forms/////////////////////////////////////////////////////// */
+.mx-auto{
+  width: 900px;
+  height: 700px;
+  opacity: .9;
+  position: relative;
+  border: 1px solid #eff0f1;
+ 
+  padding: 100px;
+  clear: both;
+
+  border-radius: 15px;
+  margin: 30px 0;
+   
+
+  color: #1b252a;
+  background-color: #FFFFFF;
+  margin-top: 100px;
+
+}
+
+
+
