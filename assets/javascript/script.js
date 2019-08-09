@@ -9,17 +9,6 @@ fetch('https://api.foursquare.com/v2/venues/explore?cat=food&near=paterson&clien
 
 
 
-<<<<<<< HEAD
-//GOOGLE MAPS API CALL//
-var map;
-function createMap(){
-  var options ={
-    center:{lat:-33.867, lng:151.195},
-    zoom: 10
-  };
-  map= new google.maps.Map(document.getElementById("map"), options)
-};
-=======
 // /////////////////////////////////////////////////////////////////
 
 
@@ -40,6 +29,5 @@ function initMap() {
 }
 // /////////////////////////////////////////////////////////////////
 
->>>>>>> robert
 
 
